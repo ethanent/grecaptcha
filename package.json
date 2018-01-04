@@ -1,0 +1,38 @@
+{
+  "name": "grecaptcha",
+  "version": "1.0.0",
+  "description": "reCAPTCHA v2 client for Node",
+  "main": "recaptcha.js",
+  "scripts": {
+    "test": "echo \"Tested before deployment.\" && exit 0",
+    "test-dev": "node test.js",
+    "prepublishOnly": "npm run test-dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanent/grecaptcha.git"
+  },
+  "keywords": [
+    "recaptcha",
+    "v2",
+    "recaptcha-v2",
+    "verify",
+    "recaptcha-verify",
+    "recaptcha2"
+  ],
+  "author": "Ethan Davis",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/ethanent/grecaptcha/issues"
+  },
+  "homepage": "https://github.com/ethanent/grecaptcha#readme",
+  "devDependencies": {
+    "whew": "^1.1.3"
+  },
+  "files": [
+    "recaptcha.js"
+  ],
+  "dependencies": {
+    "phin": "^2.8.1"
+  }
+}
