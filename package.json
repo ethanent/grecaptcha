@@ -1,6 +1,6 @@
 {
   "name": "grecaptcha",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "reCAPTCHA v2 client for Node",
   "main": "grecaptcha.js",
   "scripts": {

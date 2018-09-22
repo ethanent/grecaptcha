@@ -1,5 +1,5 @@
 const c = require('centra')
-const qs = require('qs')
+const qs = require('querystring')
 const {URL} = require('url')
 
 module.exports = class Client {
