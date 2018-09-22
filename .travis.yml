@@ -1,6 +1,5 @@
 language: node_js
 node_js:
   - "node"
-  - "8"
-  - "6"
-script: npm run test-dev
+  - "lts/*"
+script: npm test

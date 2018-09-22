@@ -36,7 +36,7 @@ client.verify('token').then((accepted) => {
 	else {
 		// reCAPTCHA token denied.
 	}
-}).catch(err) {
+}).catch((err) =>  {
 	// Request failed.
-}
+})
 ```
