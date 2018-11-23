@@ -1,7 +1,7 @@
 {
   "name": "grecaptcha",
-  "version": "1.0.2",
-  "description": "reCAPTCHA v2 client for Node",
+  "version": "1.0.3",
+  "description": "reCAPTCHA v3 / v2 client for Node",
   "main": "grecaptcha.js",
   "scripts": {
     "test": "node test.js"
@@ -12,8 +12,10 @@
   },
   "keywords": [
     "recaptcha",
-    "v2",
+    "recaptcha-v3",
+    "v3",
     "recaptcha-v2",
+    "v2",
     "verify",
     "recaptcha-verify",
     "recaptcha2"

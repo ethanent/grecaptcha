@@ -1,5 +1,5 @@
 # grecaptcha
-> reCAPTCHA v2 client for Node
+> reCAPTCHA v3 / v2 client for Node
 
 [GitHub](https://github.com/ethanent/grecaptcha) | [NPM](https://www.npmjs.com/package/grecaptcha)
 
