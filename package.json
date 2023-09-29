@@ -33,6 +33,6 @@
     "grecaptcha.js"
   ],
   "dependencies": {
-    "centra": "^1.0.1"
+    "centra": "2.6.0"
   }
 }
